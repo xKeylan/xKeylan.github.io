@@ -1,6 +1,6 @@
 # Readme.md Version# 2023.05.30 (INEW-2330 and INEW-2332 Version)
 
-![Project Logo](Icons/TeeShirtLogo)
+![Project Logo](Icons/TeeShirtLogo.jpg)
 
 ## Project Name
 TeeShirt Co.
