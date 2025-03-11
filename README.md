@@ -77,9 +77,8 @@ Below is the development timetable and planned benchmarks/milestones to accompli
 - **Other Specific Videos**: [Link to Additional Video](URL)
 
 ## Contact Information
-- **Name**: John Doe
-- **Email**: johndoe@example.com
-- **Social Media Name**: [LinkedIn](https://linkedin.com/in/johndoe) | [Twitter](https://twitter.com/johndoe)
+- **Name**: Keylan Morris
+- **Email**: kmorris116180@mymail.tstc.edu
 
 ## License
 [License](path/to/license/file)  
