@@ -6,7 +6,7 @@
 TeeShirt Co.
 
 ## Project Description
-TeeShirt Co. is an innovative online platform for customizing and purchasing T-shirts. Customers can browse a variety of styles, designs, and personalized options to express their creativity.
+TeeShirt Co. is an innovative online platform for customizing and purchasing T-shirts. Customers can browse a variety of styles and designs.
 
 ## Detailed Description
 TeeShirt Co. is designed to deliver a seamless online shopping experience for T-shirt enthusiasts. The platform enables customers to select their preferred T-shirt style and make secure purchases. By offering a unique blend of quality and customization, we aim to provide personalized apparel that resonates with individuals looking to express their unique styles. The website will also feature simplified navigation and a straightforward checkout process.
