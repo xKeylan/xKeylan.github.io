@@ -42,12 +42,11 @@ Below is the development timetable and planned benchmarks/milestones to accompli
 
 | Date         | Items                  | Description                    |
 |--------------|------------------------|--------------------------------|
-| 2023-05-01   | Project Proposal       | Proposal for consideration.    |
-| 2023-06-01   | Logon View             | User login and registration.   |
-| 2023-06-15   | Customer View          | Customer dashboard development. |
-| 2023-07-01   | Manager View           | Admin interface for inventory. |
-| 2023-07-15   | Polish/Final Submission | Finalize and submit for review.|
-| [etc.]       | [etc.]                 | [etc.]                         |
+| 03-11-2025   | Project Proposal       | Proposal for consideration.    |
+| 03-18-2025   | Logon View             | User login and registration.   |
+| 03-25-2025   | Customer View          | Customer dashboard development. |
+| 04-1-2025   | Manager View           | Admin interface for inventory. |
+| 04-8-2025   | Polish/Final Submission | Finalize and submit for review.|
 
 ## Development Environment
 | Type                        | Description                                           |
