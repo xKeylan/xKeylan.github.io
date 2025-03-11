@@ -1,6 +1,6 @@
 # Readme.md Version# 2023.05.30 (INEW-2330 and INEW-2332 Version)
 
-![Project Logo](Icons/TeeShirtLogo2.jpg)
+![Project Logo that shows a T with a S incorporated into it.](Icons/TeeShirtLogo2.jpg "TeeShirt Main Logo")
 
 ## Project Name
 TeeShirt Co.
