@@ -65,7 +65,7 @@ Below is the development timetable and planned benchmarks/milestones to accompli
 - **Running Your Program**: Launch the application via the command line or IDE.
 
 ## Videos
-- **Project Proposal**: [Link to Project Proposal Video](URL)
+- **Project Proposal**: [Link to Project Proposal Video](https://drive.google.com/file/d/1ge0A1bmBYRV_eG8NfStOIlMV9_h47YdL/view?usp=drive_link)
 - **Logon View**: [Link to Logon View Video](URL)
 - **Customer View**: [Link to Customer View Video](URL)
 - **Manager View**: [Link to Manager View Video](URL)
