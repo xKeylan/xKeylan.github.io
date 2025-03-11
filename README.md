@@ -1,6 +1,6 @@
 # Readme.md Version# 2023.05.30 (INEW-2330 and INEW-2332 Version)
 
-![Project Logo](path/to/your/logo.png "T-Shirt Company Logo")
+![Project Logo](Icons/TeeShirtLogo)
 
 ## Project Name
 TeeShirt Co.
