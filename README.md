@@ -81,5 +81,5 @@ Below is the development timetable and planned benchmarks/milestones to accompli
 - **Email**: kmorris116180@mymail.tstc.edu
 
 ## License
-[License](License)  
+[License](LICENSE)  
 This project is licensed under the GNU General Public License v3.0. Permissions of this strong copyleft license are conditioned on making available complete source code of licensed works and modifications under the same license. Copyright and license notices must be preserved, and contributors provide an express grant of patent rights.
