@@ -73,7 +73,6 @@ Below is the development timetable and planned benchmarks/milestones to accompli
 - **Manager View**: [Link to Manager View Video](URL)
 - **Video Resume**: [Link to Video Resume](URL)
 - **Final Client Demonstration Video**: [Link to Demonstration Video](URL)
-- **Other Specific Videos**: [Link to Additional Video](URL)
 
 ## Contact Information
 - **Name**: Keylan Morris
