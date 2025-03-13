@@ -88,7 +88,7 @@ Each project stage will be distinctly outlined to illustrate how it contributes 
 | Logon View                    | March 18, 2025           | 25 hours |
 | Customer View                  | March 25, 2025           | 25 hours |
 | Manager View             | April 1, 2025            | 25 hours |
-| Polish/Final Submission           | May 8, 2025             | 20 hours |
+| Polish/Final Submission           | April 11, 2025             | 20 hours |
 
 ---
 
