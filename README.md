@@ -1,102 +1,139 @@
+# Software Development Proposal
 
-**Welcome, everyone! Today, I'm excited to share the details about the TeeShirt Co. project and our software development proposal. Let's dive right in!**
+**Prepared By:**  
+Keylan Morris  
+TeeShirt Co.
 
----
+**Prepared for:**  
+Sarah Thompson  
+Company S
 
-**# Readme.md Version #**
-
-**TeeShirt Co. is developing an innovative online platform where you can customize and purchase T-shirts. Our project logo features a unique blend of the letter T and an S, perfectly symbolizing our brand.**
-
-
-**## Project Name and Description**
-
-TeeShirt Co. is more than just a shopping destination; it's designed to offer a seamless experience for T-shirt enthusiasts. From browsing a variety of styles to making secure purchases, we've crafted a platform that allows customers to express their individuality through personalized apparel. Our objective is to provide a user-friendly interface with simplified navigation and a straightforward checkout process.
-
-
-**## Project Features and Limitations**
-
-This project focuses specifically on T-shirts, which means we won't be expanding into other apparel types—at least not yet. While customers will enjoy a great level of customization, it will be limited to what’s offered on our website. Initially, our shipping will target domestic orders only.
-
-
-**## Inventory and Control**
-
-We have a well-structured inventory consisting of various T-shirts, sorted by style, color, and size. Our plan includes effective inventory management to prevent overselling while keeping customers satisfied. 
-
-As we can see here
-
-**For example**, one of our sample items is the Basic Cotton T-Shirt:  
-**Item Name:** Basic Cotton T-Shirt  
-**Description:** A comfortable cotton T-shirt available in various colors.  
-**Retail Price:** $19.99  
-**Quantity:** 50  
-**Restock Threshold:** 10  
-
-
-
-**## Development Plan**
-
-Our timetable sets clear milestones for the project development with detailed deadlines leading up to our final submission. Here's a quick look:  
-- By March 11, 2025, we aim to complete the project proposal.  
-- By April 8, 2025, we’ll polish everything for final submission.
-
-
-**## Development Environment and Getting Started**
-
-We're using technologies like Python in Visual Studio 2022 for ease and performance. For those looking to get started, it's as simple as cloning our repository from GitHub!
-
-
-
-
-
-**# Software Development Proposal**
-
-**Now, shifting gears, I'm thrilled to present our Software Development Proposal, prepared specifically for Company S and their e-commerce needs.**
-
-
-**## Introduction**
-
-We've tailored this proposal to address the unique challenges faced by Company S, especially in inventory management and user experience. Our goal? To design a platform that enhances customer interactions while streamlining backend processes.
+**Prepared on:** March 11, 2025  
 
 ---
 
-**## Objectives and Application Features**
+## INTRODUCTION  
+TeeShirt Co. appreciates the opportunity to submit this proposal regarding your software solution and e-commerce development needs. We are excited to partner with you to create a tailored application that not only manages inventory effectively but also provides a seamless shopping experience for your customers. Our goal is to enhance user interaction while streamlining backend processes, supporting various user roles—Customers, Employees, and Managers.
 
-We're focused on creating a user-friendly e-commerce solution that accommodates different user roles. This means Customers, Employees, and Managers will all have tailored experiences.  
+In this proposal, we outline the project scope, features, costs, delivery timelines, and terms and conditions. We encourage you to review the proposal thoroughly. Once you’re ready, please sign electronically and return it to us.
 
-To ensure our application meets expectations, here are some highlights:
-- User Accounts with defined access levels.
-- A streamlined shopping experience with an intuitive cart system.
-- Real-time inventory management to prevent overselling.
+If you have questions or need clarification, feel free to reach out. For further insights into our services and past projects, please visit [www.companym.com](http://www.companym.com).
 
----
+We look forward to working together and thank you for considering TeeShirt Co.  
 
-**## Project Scope and Timeline**
-
-Every project stage is laid out with timelines; we project completion for the proposal by March 12, 2025, and the final submission by May 8, 2025.
-
----
-
-**## Risk Assessment and Our Promise**
-
-We’re aware of potential risks, such as integration challenges and user adoption hurdles. But we commit to providing exceptional support with 24/7 technical assistance and tailored training to ensure your team is well-equipped to use the application.
+Sincerely,  
+Keylan Morris  
+Project Manager  
+TeeShirt Co.  
 
 ---
 
-**## Your Investment and Terms**
-
-Our services come at a cost of $150 per hour for development and $100 for support, with detailed invoices provided upon completion of each phase.
-
----
-
-**## Agreement to Services Provided**
-
-To formalize our collaboration, signatures will be needed from both parties on the agreement, ensuring that everyone is aligned on the terms and conditions.
+## OUR BIOGRAPHY  
+TeeShirt Co. is a leading software development company in the U.S., with over a decade of experience in delivering innovative solutions tailored to clients' unique needs. Our team consists of skilled developers and exceptional communicators, committed to supporting you through every step of the project lifecycle.
 
 ---
 
-**[Camera focuses on you as you wrap up.]**
+## DIAGNOSING THE PROBLEM  
+**Current Issues:**  
+Company S is facing challenges in managing inventory across multiple user roles, leading to inefficiencies and customer dissatisfaction. The current high cart abandonment rate—around 70%—is a critical concern, driven by barriers in the checkout process. Without a custom solution, Company S risks losing significant revenue.
 
-**Thank you for taking the time to explore TeeShirt Co. and our software development proposal. We’re excited about the future and the opportunity to partner with Company S. If you have any questions or want to know more, feel free to reach out!** 
+**Specific Issues Impacting Business:**
+1. Lack of inventory control with real-time stock tracking leads to overselling.
+2. Inefficient user experience deters customers at checkout.
+3. Insufficient management tools for oversight and analysis of sales data.
 
-**[Smile and nod toward the camera to signal the conclusion of the video.]** 
+**Goal:**  
+Our proposal addresses these challenges by designing a dynamic e-commerce platform. This application will streamline operations, enhance customer experience, and significantly improve inventory management.
+
+---
+
+## OBJECTIVES  
+1. Develop a user-friendly e-commerce website that accommodates role-based access for Customers, Employees, and Managers.  
+2. Integrate advanced inventory management with real-time stock monitoring across multiple product categories.  
+3. Equip Managers with comprehensive reporting tools and the ability to manage customer data and promotional codes effectively.
+
+---
+
+## APPLICATION FEATURES  
+
+### User Account Management  
+- **User Registration:** Customers can easily create accounts to facilitate purchases.  
+- **User Roles:** Defined access levels where Customers can shop, Employees can manage transactions, and Managers have oversight capabilities.
+
+### Shopping Experience  
+- **Point of Sale (POS):** A straightforward interface for Employees and Managers to conduct transactions.  
+- **Shopping Cart:** An intuitive cart system for Customers to manage selected items.  
+- **Automated Receipts and Invoices:** Instant confirmation of transactions through professional transaction outputs.
+
+### Inventory Management  
+- **Categorization:** Organizing inventory into categories such as T-shirts (Cotton, Polyester, Printed) and Accessories (Hats, Bags).  
+- **Limited Stock Control:** Real-time tracking prevents overselling, with alerts for low stock levels.
+
+### Managerial Features  
+- **Customer Data Management:** Tools to edit and view customer profiles and purchase history.
+- **Inventory Maintenance:** Comprehensive tools for adding, updating, and deleting inventory items.  
+- **Promotional Codes Management:** Ability to create and manage promotional codes to incentivize sales.
+- **Sales Reporting:** Customizable tools to analyze sales metrics, revenue streams, and inventory turnover.
+
+---
+
+## PLANNING AND DELIVERABLES  
+Each project stage will be distinctly outlined to illustrate how it contributes to overall objectives. Deliverables will be communicated clearly, ensuring transparency on progress throughout the project.
+
+### Timeline and Projected Deadlines  
+
+| PROJECT STAGE                     | PROJECTED COMPLETION DATE | HOURS    |
+|-----------------------------------|---------------------------|----------|
+| Project Proposal                  | March 12, 2025           | 10 hours |
+| Logon View                    | March 18, 2025           | 25 hours |
+| Customer View                  | March 25, 2025           | 25 hours |
+| Manager View             | April 1, 2025            | 25 hours |
+| Polish/Final Submission           | May 8, 2025             | 20 hours |
+
+---
+
+## RISK ASSESSMENT  
+We anticipate potential issues during this project, including:
+
+- Integration challenges with legacy systems.
+- Data migration hurdles that may arise.
+- User adoption barriers due to complexity.
+
+**Technical and Environmental Risks:**
+1. Server overload during peak use.
+2. Software bugs that could impact stability.
+3. Rapid changes in technology that may affect application relevance.
+
+---
+
+## OUR PROMISE  
+TeeShirt Co. is committed to providing exceptional support throughout the project. We offer:
+- **Technical Support:** 24/7 assistance via email and phone for any inquiries.
+- **Training:** Tailored training sessions via Zoom or in-person to help your team utilize the application effectively.
+
+---
+
+## WARRANTY AND GUARANTEE  
+TeeShirt Co. guarantees a successful project lifecycle with six months of complimentary support following implementation, ensuring any questions or issues can be promptly addressed.
+
+---
+
+## YOUR INVESTMENT  
+Services are billed at $150 per hour for development and $100 per hour for ongoing support. Detailed invoices will be provided upon completion of project phases.
+
+---
+
+## TERMS AND CONDITIONS  
+Payments are only accepted in USD via bank transfer. Invoices will be issued following each project phase, payable within 30 days.
+
+---
+
+## AGREEMENT TO SERVICES PROVIDED  
+Please initial each page and sign below to indicate your understanding and agreement with the terms outlined.
+
+**Company S**  
+Signature: _______________________  
+
+**TeeShirt Co.**  
+Signature: Keylan Morris  
 
